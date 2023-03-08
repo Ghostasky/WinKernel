@@ -14,7 +14,7 @@
 -   事件等待(Finish)：[事件等待](https://github.com/Ghostasky/WinKernel/blob/main/06%E4%BA%8B%E4%BB%B6%E7%AD%89%E5%BE%85.md)
 -   APC机制(Finish)：[APC机制]()
 -   异常(Finish)：[异常]()
--   内存管理(Learning...)：[内存管理]()
--   消息机制
--   软件调试
+-   内存管理(Finish)：[内存管理]()
+-   消息机制(Finish)：[消息机制]()
+-   软件调试(Learning...)：[软件调试]()
 
