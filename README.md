@@ -6,7 +6,7 @@
 
 欢迎star:smile:
 
-进度：
+目录：
 
 -   保护模式：[保护模式](https://github.com/Ghostasky/WinKernel/blob/main/01%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F.md)
 -   驱动开发：[驱动开发](https://github.com/Ghostasky/WinKernel/blob/main/02%E9%A9%B1%E5%8A%A8.md)
